@@ -4,13 +4,13 @@
   "description": "At school, the bento goes missing…",
   "story": [
     {
-      "imageUrl": "https://<user>.github.io/<repo>/content/images/story/level2_1.png",
+      "imageUrl": "https://caiporagames.github.io/NihoniaContent/content/images/story/level2_1.png",
       "text_jp": "がっこうでべんとうをたべます。",
       "text_romaji": "gakkou de bentou o tabemasu.",
       "text_en": "At school we eat bento."
     },
     {
-      "imageUrl": "https://<user>.github.io/<repo>/content/images/story/level2_2.png",
+      "imageUrl": "https://caiporagames.github.io/NihoniaContent/content/images/story/level2_2.png",
       "text_jp": "べんとうがみえません。",
       "text_romaji": "bentou ga miemasen.",
       "text_en": "The bento is not in sight."
