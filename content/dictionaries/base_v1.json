@@ -1,0 +1,6 @@
+{
+  "ねこ": { "romaji": "neko", "en": "cat", "pt": "gato", "category": ["animals"] },
+  "たいよう": { "romaji": "taiyou", "en": "sun", "pt": "sol", "category": ["nature","weather"] },
+  "がっこう": { "romaji": "gakkou", "en": "school", "pt": "escola", "category": ["places"] },
+  "べんとう": { "romaji": "bentou", "en": "bento (lunch box)", "pt": "bentô", "category": ["food"] }
+}
