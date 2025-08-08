@@ -1,26 +1,26 @@
 {
   "version": 1,
-  "dictionaryUrl": "https://<user>.github.io/<repo>/content/dictionaries/base_v1.json",
+  "dictionaryUrl": "https://caiporagames.github.io/NihoniaContent/content/dictionaries/base_v1.json",
   "levels": [
     {
       "id": "level_1",
       "title": "The Cat and the Sun",
       "xpRequired": 0,
       "pos": { "x": 300, "y": 450 },
-      "thumbnailUrl": "https://<user>.github.io/<repo>/content/images/levels/level1_thumb.png",
+      "thumbnailUrl": "https://caiporagames.github.io/NihoniaContent/content/images/levels/level1_thumb.png",
       "games": ["match", "quiz", "tap"],
       "tags": ["intro", "animals", "feelings"],
-      "levelUrl": "https://<user>.github.io/<repo>/content/levels/level_1_v1.json"
+      "levelUrl": "https://caiporagames.github.io/NihoniaContent/content/levels/level_1_v1.json"
     },
     {
       "id": "level_2",
       "title": "The Bento Box Mystery",
       "xpRequired": 10,
       "pos": { "x": 520, "y": 360 },
-      "thumbnailUrl": "https://<user>.github.io/<repo>/content/images/levels/level2_thumb.png",
+      "thumbnailUrl": "https://caiporagames.github.io/NihoniaContent/content/images/levels/level2_thumb.png",
       "games": ["match", "tap", "listen"],
       "tags": ["food", "school"],
-      "levelUrl": "https://<user>.github.io/<repo>/content/levels/level_2_v1.json"
+      "levelUrl": "https://caiporagames.github.io/NihoniaContent/content/levels/level_2_v1.json"
     }
   ]
 }
