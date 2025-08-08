@@ -1,0 +1,19 @@
+{
+  "id": "level_1",
+  "title": "The Beginning",
+  "description": "Learn your first Hiragana characters!",
+  "story": [
+    {
+      "imageUrl": "https://<user>.github.io/<repo>/content/images/story/level1_1.png",
+      "text_jp": "ねこがいます。",
+      "text_romaji": "neko ga imasu.",
+      "text_en": "There is a cat."
+    },
+    {
+      "imageUrl": "https://<user>.github.io/<repo>/content/images/story/level1_2.png",
+      "text_jp": "ねこはかわいいです。",
+      "text_romaji": "neko wa kawaii desu.",
+      "text_en": "The cat is cute."
+    }
+  ]
+}
